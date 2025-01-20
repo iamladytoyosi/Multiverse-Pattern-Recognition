@@ -5,3 +5,5 @@
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 T
 $contracts/anomaly-discovery-nft.clar,6/b/6b1fb1a73a7ae823dd8dbbafd10eb913c6a2e70e
+S
+#tests/anomaly-discovery-nft.test.ts,9/9/99d5fabab218293f34f62e88c6f0a03493ce4ca5

@@ -13,3 +13,5 @@ M
 tests/anomaly-reports.test.ts,4/3/43396e6f43a5d5e8e3d9f14e8c4a616919d0218a
 U
 %contracts/multiverse-marketplace.clar,3/2/321c3d3c1e104a24f907e4f103e7765a2d0c6d75
+T
+$tests/multiverse-marketplace.test.ts,2/5/25a0847c67b6dbaa4e0b22a792d27348663610a2

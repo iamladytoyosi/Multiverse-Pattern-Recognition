@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/anomaly-discovery-nft.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.anomaly-reports]
+path = 'contracts/anomaly-reports.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

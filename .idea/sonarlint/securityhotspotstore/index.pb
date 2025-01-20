@@ -9,3 +9,5 @@ S
 #tests/anomaly-discovery-nft.test.ts,9/9/99d5fabab218293f34f62e88c6f0a03493ce4ca5
 N
 contracts/anomaly-reports.clar,c/7/c7fd0b342457140898d61bceda4ee79095fa46ea
+M
+tests/anomaly-reports.test.ts,4/3/43396e6f43a5d5e8e3d9f14e8c4a616919d0218a
